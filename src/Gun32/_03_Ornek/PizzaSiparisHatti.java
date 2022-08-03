@@ -1,6 +1,5 @@
 package Gun32._03_Ornek;
 
-import jdk.nashorn.internal.ir.WhileNode;
 
 import java.util.ArrayList;
 import java.util.Scanner;
